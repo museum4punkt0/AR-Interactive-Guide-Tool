@@ -1,12 +1,3 @@
-This repository contains the open source parts of the museum4punkt0 
-AR Interactive Guide Tool project for the Ethnologisches Museum Berlin 
-at the Humboldt Forum. In order to run this project, you need to add 
-the closed-source third-party 
-library https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076 
-at \ar_interactive_tour_guide_unity\Assets\Fingers as instructed in 
-the text file in that folder. All other third party libraries contain 
-their own permissive open source licences.
-
 MIT License
 
 Copyright (c) 2020 museum4punkt0 / NEEEU Spaces GmbH

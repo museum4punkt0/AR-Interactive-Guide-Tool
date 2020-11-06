@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3190357383676185872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4891239530335630955}
+  - component: {fileID: 6333881725336920134}
+  m_Layer: 0
+  m_Name: kwarro kamboi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4891239530335630955
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3190357383676185872}
+  m_LocalRotation: {x: 0.006603594, y: 0.65773374, z: 0.0075623747, w: -0.7531836}
+  m_LocalPosition: {x: -0.41399944, y: 0.109950006, z: 2.2240002}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4179745799630405207}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1400001, y: 277.742, z: -0.155}
+--- !u!136 &6333881725336920134
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3190357383676185872}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.03
+  m_Height: 0.24
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &4021018512860553287
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4891239530335630955}
+    m_Modifications:
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 994441887130852881, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_Name
+      value: VI-57946
+      objectReference: {fileID: 0}
+    - target: {fileID: 4071364723732462071, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566108576939530919, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+        type: 3}
+      propertyPath: title
+      value: Kwarro-Schlangen verschlingen Ratten
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 994441887130852883, guid: fc70a0cce6c534807bd7ec5a7e3b0135, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: fc70a0cce6c534807bd7ec5a7e3b0135, type: 3}
+--- !u!4 &4179745799630405207 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 994441887130852880, guid: fc70a0cce6c534807bd7ec5a7e3b0135,
+    type: 3}
+  m_PrefabInstance: {fileID: 4021018512860553287}
+  m_PrefabAsset: {fileID: 0}

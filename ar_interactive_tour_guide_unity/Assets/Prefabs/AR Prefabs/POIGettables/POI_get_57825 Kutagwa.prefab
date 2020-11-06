@@ -1,0 +1,544 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5257981232882803618
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7266859697424324768}
+    m_Modifications:
+    - target: {fileID: 5467899355929280127, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467899355929280127, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: titleDE
+      value: "Gesichtsflaum der Ma\u0308dchen und Frauen"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: titleEN
+      value: Facial hair of girls and women
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: infoTextEN
+      value: "fGaceisailchatsirflaoufmgirdlsearnd wMoa\u0308mdechn"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.747
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.10280861
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -8.24898e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.999899
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000011919724
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.014211401
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -178.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265827, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_Name
+      value: POISub_gesichtsflaum
+      objectReference: {fileID: 0}
+    - target: {fileID: 8188116945872324844, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: highlightTex
+      value: 
+      objectReference: {fileID: 2800000, guid: c23a6146bc4bb4b2c84bf351695b0951, type: 3}
+    - target: {fileID: 8188116945872324844, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: _objectRenderer
+      value: 
+      objectReference: {fileID: 3762791220100719341}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e73865855fbe1413f95da6b0694978a5, type: 3}
+--- !u!1001 &6867397441917347409
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7266859697424324768}
+    m_Modifications:
+    - target: {fileID: 5467899355929280127, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467899355929280127, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: titleDE
+      value: junge, geschlechtsreife Frau
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: titleEN
+      value: young, pubescent woman
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.176
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.24800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -8.24898e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.999899
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000011919724
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.014211401
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -178.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265827, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_Name
+      value: POISub_geschlechtsreife
+      objectReference: {fileID: 0}
+    - target: {fileID: 8188116945872324844, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: highlightTex
+      value: 
+      objectReference: {fileID: 2800000, guid: e44dc40fac7f94a23b892b70ac256bb8, type: 3}
+    - target: {fileID: 8188116945872324844, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: _objectRenderer
+      value: 
+      objectReference: {fileID: 3762791220100719341}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e73865855fbe1413f95da6b0694978a5, type: 3}
+--- !u!1001 &7716631844690196277
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6130948698134110294}
+    m_Modifications:
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22025055
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.060011014
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -8.24898e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.999899
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000011919724
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.014211401
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -178.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909584291579428547, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8248625559412346064, guid: b83ea7c100bc844da9babc4bde83eebd,
+        type: 3}
+      propertyPath: m_Name
+      value: EM_VI-57825_3k
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b83ea7c100bc844da9babc4bde83eebd, type: 3}
+--- !u!23 &3762791220100719341 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 6858671528296715736, guid: b83ea7c100bc844da9babc4bde83eebd,
+    type: 3}
+  m_PrefabInstance: {fileID: 7716631844690196277}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7986203819042737130
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7266859697424324768}
+    m_Modifications:
+    - target: {fileID: 5467899355929280127, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467899355929280127, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: titleDE
+      value: Schmuck der weiblichen ngwalndu
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981559352575132232, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: titleEN
+      value: Adornment of the female ngwalndu
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.17879869
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.02000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.060859784
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -8.24898e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.999899
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000011919724
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.014211401
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -178.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265824, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564879325257265827, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: m_Name
+      value: POISub _schmuck
+      objectReference: {fileID: 0}
+    - target: {fileID: 8188116945872324844, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: highlightTex
+      value: 
+      objectReference: {fileID: 2800000, guid: 5b9b5a0ddc66541178dbf87a3827eb70, type: 3}
+    - target: {fileID: 8188116945872324844, guid: e73865855fbe1413f95da6b0694978a5,
+        type: 3}
+      propertyPath: _objectRenderer
+      value: 
+      objectReference: {fileID: 3762791220100719341}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e73865855fbe1413f95da6b0694978a5, type: 3}
+--- !u!1001 &8666127942449611532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6134179089538682972, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_get_57825 Kutagwa
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134179089538682975, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: infoTextDE
+      value: 'Die Initianden mussten auf dem Weg in die Puti-Kammer durch die Beine
+        der Frauenfigur kriechen - ohne ihren Blick zu
+
+        heben.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: titleDE
+      value: Figur des Kutagwa
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: subtitleDE
+      value: Kumbwi und Sakia
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: infoTextEN
+      value: On their way into the Puti chamber, the boys to be initiated had to
+        crawl through the legs of the female figure - without lifting their eyes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: titleEN
+      value: Figure of Kutagwa
+      objectReference: {fileID: 0}
+    - target: {fileID: 6717217757433094327, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: subtitleEN
+      value: Figure of Kutagwa
+      objectReference: {fileID: 0}
+    - target: {fileID: 8519336830434450560, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8519336830434450560, guid: 1073256bcd8924c06bc44322fcee02c2,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1073256bcd8924c06bc44322fcee02c2, type: 3}
+--- !u!4 &6130948698134110294 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3265606886462235482, guid: 1073256bcd8924c06bc44322fcee02c2,
+    type: 3}
+  m_PrefabInstance: {fileID: 8666127942449611532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7266859697424324768 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2061899958056885164, guid: 1073256bcd8924c06bc44322fcee02c2,
+    type: 3}
+  m_PrefabInstance: {fileID: 8666127942449611532}
+  m_PrefabAsset: {fileID: 0}

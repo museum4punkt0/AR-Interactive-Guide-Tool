@@ -1,0 +1,6 @@
+type,parent,name,color,,Title DE,Title EN
+folder,root,theme1,#1ba7db,,Begrüßung und Einführung in die Technik,Welcome and introduction in the tech
+folder,root,theme2,#ed3f70,,Kulthäuser (korambo) der Abelam,Cult houses (korambo) of the Abelam
+folder,root,theme3,#f37d3f,,"Die Giebelwand (waken, mbai)",The gable wall	
+folder,root,theme4,#3dc483,,Das Innere des Hauses				,The inside of the house
+folder,root,theme5,#1ba7db,,Konstruktion des Hauses,House construction

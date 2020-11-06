@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5603232277282282272
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4011683263121773055, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_Colors.m_PressedColor.r
+      value: 0.32549024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4011683263121773055, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_Colors.m_PressedColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4011683263121773055, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_Colors.m_PressedColor.b
+      value: 0.33910328
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091913227563611709, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091913227563611709, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091913227563611709, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091913227563611709, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091913227563611709, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7091913227563611709, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8188894435601985613, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_Name
+      value: Minigame Button Correct
+      objectReference: {fileID: 0}
+    - target: {fileID: 8432508401288940210, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8432508401288940210, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8432508401288940210, guid: b9b2163ea90ce49b7975b92f07de1d2c,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9b2163ea90ce49b7975b92f07de1d2c, type: 3}

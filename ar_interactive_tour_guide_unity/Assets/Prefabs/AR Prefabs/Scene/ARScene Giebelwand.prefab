@@ -1,0 +1,2090 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2543937605031671604
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Carving of a yams spirit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Schnitzerei eines Yamsgeistes
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: wapinyan
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: wapinyan
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: 'hergestellt vor 1966 von Marataba in Kalabu I
+
+        gesammelt 1966
+        von Gerd Koch
+
+        erworben 1966 durch das Ethnologischen Museum Berlin'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: 'created before 1966 by Marataba in Kalabu I
+
+        collected 1966
+        by Gerd Koch
+
+        acquired 1966 by the Ethnologisches Museum Berlin,
+        VI 48601'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Schnitzerei eines Yamsgeistes
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.3188221
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.5792143
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &2695847699308422140
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 938743810271966085, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055269852785069191, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: sceneId
+      value: 2239697994
+      objectReference: {fileID: 0}
+    - target: {fileID: 3758794499941733674, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: sceneId
+      value: 4276501578
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857395386801, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857395386801, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857395386801, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857395386801, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857395386801, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857395386801, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857546868097, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5c81a05d06e424879926b4e07ef0e795,
+        type: 3}
+    - target: {fileID: 4211189857546868098, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AspectRatio
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857546868156, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857546868156, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857546868156, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857546868156, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857546868156, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 113
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857573395259, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857573395259, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857573395259, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857573395259, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857573395259, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189857573395259, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266297, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266298, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_Name
+      value: ARScene Giebelwand
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266298, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858360266303, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: uniqueName
+      value: Giebelwand
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198313, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: referenceImageName
+      value: PutiMarker
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.4144
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.352
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6565
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858715198315, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858793712697, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858793712697, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858793712697, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858793712697, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858793712697, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858793712697, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858990092585, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858990092585, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858990092585, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858990092585, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858990092585, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189858990092585, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859036724064, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859036724064, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859036724064, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859036724065, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859214049067, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859214049067, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859214049067, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859214049067, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859214049067, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859214049067, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859321562693, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859321562693, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859321562693, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859321562693, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859321562693, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4211189859321562693, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7837851423276050687, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8431626157169580172, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: sceneId
+      value: 4043868628
+      objectReference: {fileID: 0}
+    - target: {fileID: 8783162543976386998, guid: 4568b8987ab2a450abf135ddbede72d3,
+        type: 3}
+      propertyPath: sceneId
+      value: 2765970899
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4568b8987ab2a450abf135ddbede72d3, type: 3}
+--- !u!4 &2240740850173302940 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4211189859036724064, guid: 4568b8987ab2a450abf135ddbede72d3,
+    type: 3}
+  m_PrefabInstance: {fileID: 2695847699308422140}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4118765526540994922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Entrance
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Eingang
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: korekore
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: korekore
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1969 in Berlin f\xFCr das Ethnologische Museum Berlin"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: created before 1969 in Berlin for the Ethnologisches Museum Berlin
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Eingang
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3188832
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.6999426
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &5504967747797494823
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Additions to the mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Seitenteile der Matte
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1969 in Berlin f\xFCr das Ethnologische Museum Berlin,
+        VI 57983"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: created before 1969 in Berlin for the Ethnologisches Museum Berlin,
+        VI 57983
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Seitenteile der Matte
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.550001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.9392445
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09935498
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &6030517102143033284
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Carving of a python
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Schnitzerei einer Pythonschlange
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: ndua
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: ndua
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1966, K\xFCnstler und Dorf unbekannt\ngesammelt 1966
+        von Gerd Koch\nerworben 1966 durch das Ethnologischen Museum Berlin"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: 'created before 1966, unknown village and artist
+
+        collected
+        1966 by Gerd Koch
+
+        acquired 1966 by the Ethnologisches Museum Berlin,
+        VI 48609'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Schnitzerei einer Pythonschlange
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5199997
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.538854
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4997473
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &6092095360607835868
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178648451383395946, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6389200788656752253, guid: 2bcebce75efe24594bea9175a0ee8379,
+        type: 3}
+      propertyPath: m_Name
+      value: Reference geometry
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2bcebce75efe24594bea9175a0ee8379, type: 3}
+--- !u!1001 &6452037368741689235
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Additions to the mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Seitenteile der Matte
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1969 in Berlin f\xFCr das Ethnologische Museum Berlin,
+        VI 57983"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: created before 1969 in Berlin for the Ethnologisches Museum Berlin,
+        VI 57983
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Seitenteile der Matte (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7486609600522693392
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: "Painting of the fa\xE7ade"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Giebelmalerei
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: mbai
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: mbai
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1963, Dorf und K\xFCnstler unbekannt\nSammler unbekannt\nerworben
+        vor 1963 von Carl Schmitz, Museum der Kulturen Basel\nerworben 1964 durch
+        das Ethnologischen Museum Berlin"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: 'created before 1963, unknown village and artist
+
+        collector
+        unknown
+
+        acquired 1963 by Carl Schmitz, Museum der Kulturen Basel
+        acquired 1964 by the Ethnologisches Museum Berlin, VI 47057a'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Giebelmalerei
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.4799998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39083362
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.0400305
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7486609601043301086
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Canopy with spears and carving of a bird
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Vordach mit Speeren und Vogelschnitzerei
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: nimbi
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: nimbi
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1969 in Berlin f\xFCr das Ethnologische Museum Berlin"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: created before 1969 in Berlin for the Ethnologisches Museum Berlin,
+        VI 57983
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Vordach mit Speeren und Vogelschnitzerei
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.2400007
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6406505
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.0601726
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7486609601375173182
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Chain with ball
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: 'Kette mit Kugel '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: ngalut
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: ngalut
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1969 in Berlin f\xFCr das Ethnologische Museum Berlin"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: created before 1969 in Berlin for the Ethnologisches Museum Berlin
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: 'POI_Kette mit Kugel '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.210001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.7909801
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.1395183
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7486609601631712823
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Matte
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: kimbi
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: kimbi
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1969 in Kalabu, K\xFCnstler unbekannt gesammelt 1968
+        von Keith Buxton erworben 1969 durch das Ethnologische Museum Berlin"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: "Created before 1969 in Kalabu, unknown artist \nCollected by Keith
+        Buxton\nAcquired 1969 by the Ethnologisches Museum Berlin, VI 49721"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Matte
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.3591664
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.849967
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7486609601871163670
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Carving of a hornbill
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: 'Schnitzerei eines Nashornvogels '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: pal
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: pal
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: 'hergestellt um 1948 von Mining bzw. Windu in Kalabu I
+
+        gesammelt
+        1966 von Gerd Koch
+
+        erworben 1966 von dem Ethnologischen Museum Berlin,
+        VI 48554'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: 'created about 1948 by Mining, respectively Windu in Kalabu I
+
+        collected
+        1966 by Gerd Koch
+
+        acquired 1966 by the Ethnologisches Museum Berlin,
+        VI 48554'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: 'POI_Schnitzerei eines Nashornvogels '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.038976
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.590079
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7486609602288595704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Frieze
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: Friesbalken
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: tikit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: tikit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: "hergestellt vor 1963, Dorf und K\xFCnstler unbekannt\nSammler unbekannt\nerworben
+        vor 1964 von Carl Schmitz, Museum der Kulturen Basel\nerworben 1964 durch
+        das Ethnologischen Museum Berlin,"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: 'Created before 1963, unknown village and artist
+
+        Collector
+        unknown
+
+        Acquired 1963 by Carl Schmitz, Museum der Kulturen Basel
+        acquired 1964 by the Ethnologisches Museum Berlin'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Friesbalken
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4499998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6590321
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.6392726
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}
+--- !u!1001 &7657512543482258174
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2240740850173302940}
+    m_Modifications:
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleEN
+      value: Carving of a hornbill
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: screenspacePOI
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: titleDE
+      value: 'Schnitzerei eines Nashornvogels '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleEN
+      value: pal
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: subtitleDE
+      value: pal
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextDE
+      value: 'hergestellt um 1948 von Mining bzw. Windu in Kalabu I
+
+        gesammelt
+        1966 von Gerd Koch
+
+        erworben 1966 durch das Ethnologische Museum
+        Berlin, VI 48547'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4983670080769134555, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: infoTextEN
+      value: 'created about 1948 by Mining or Windu in Kalabu I
+
+        collected
+        1966 by Gerd Koch
+
+        acquired 1966 by the Ethnologisches Museum Berlin,
+        VI 48547'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872496, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_Name
+      value: POI_Schnitzerei eines Nashornvogels (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4700003
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.9489491
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6193746
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562278825436872499, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7938464929163572204, guid: ef5a337f6dd5d43d195b267dcd48897f,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef5a337f6dd5d43d195b267dcd48897f, type: 3}

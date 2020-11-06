@@ -6,13 +6,13 @@ _AR Interactive Tour Gruide_ is an augmented reality app for guided tours in the
 
 
 1. [Readme](#readme)
-2. [Table of Contents](##table-of-contents)
-3. [Brief](##brief)
-4. [Technical Documentation of the Programming](##technical-documentation-of-the-programming)
-5. [Installation](##installation)
-6. [Use](##use)
-7. [Credits](##credits)
-8. [License](##license)
+2. [Table of Contents](#table-of-contents)
+3. [Brief](#brief)
+4. [Technical Documentation of the Programming](#technical-documentation-of-the-programming)
+5. [Installation](#installation)
+6. [Use](#use)
+7. [Credits](#credits)
+8. [License](#license)
 
 ### Introduction
 This _Manual for How to Use the AR Interactive Tour Guide Tool_ has been developed to help understand how to use the digital tool and how to improve it.
@@ -57,7 +57,7 @@ The project museum4punkt0 is funded by the Federal Government Commissioner for C
 
 ## Technical Documentation of the Programming
 
-**This document offers technical details in this repository and act as an intro guide to the code. It is aimed at anyone trying to understand what the code is doing. The mediating guides using the app do not need to read or understand this document. The app will compile but will only show a blank screen unless the [server](####data-loading) containing the .csv files is properly adressed and the [external data folder](###how-to-work-with-the-external-data-folder) is properly imported. As mentioned in the introduction, the proprietary software library [Fingers](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076) is required to build the project.**
+**This document offers technical details in this repository and act as an intro guide to the code. It is aimed at anyone trying to understand what the code is doing. The mediating guides using the app do not need to read or understand this document. The app will compile but will only show a blank screen unless the [server](#data-loading) containing the .csv files is properly adressed and the [external data folder](#how-to-work-with-the-external-data-folder) is properly imported. As mentioned in the introduction, the proprietary software library [Fingers](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076) is required to build the project.**
 
 ### General Structure and Remarks
 
@@ -319,7 +319,7 @@ The interaction will be similar to the guide device. It is possible to click on 
 During the game, the person with the guided device will be asked to organise the drawings of different parts of the ceremonial house/KultHaus. It is a simple click game, with feedback when the choice is right or wrong.
 
 ### Changing Content - How to Fill the Excel Data Sheet
-As explained in previous [chapters](####data-loading), the content displayed in the app is stored in a server, that you will have to set up and upload the content (jpg, mp4, csv) to. After the first start-up of the app you will have to submit the web address to that server into the form inside the app. The names and assets displayed in each chapter are set by the .csv files you upload here. Hence, if there are no or faulty/empty CSV files in that location the app will not start. You can find sample CSVs under “../ar_interactive_tour_guide_private/ar_interactive_tour_guide_server/CSV”.
+As explained in previous [chapters](#data-loading), the content displayed in the app is stored in a server, that you will have to set up and upload the content (jpg, mp4, csv) to. After the first start-up of the app you will have to submit the web address to that server into the form inside the app. The names and assets displayed in each chapter are set by the .csv files you upload here. Hence, if there are no or faulty/empty CSV files in that location the app will not start. You can find sample CSVs under “../ar_interactive_tour_guide_private/ar_interactive_tour_guide_server/CSV”.
  
 In the excel sheet, there are three tabs for data, 'themes', 'chapters' and 'items'.
 Strictly keep to the convention that all elements remain in their corresponding tabs (themes are in the 'themes' tab, etc.)

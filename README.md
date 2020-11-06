@@ -2,19 +2,19 @@
 
 _AR Interactive Tour Gruide_ is an augmented reality app for guided tours in the exhibition space. It was developed for a big scale object of the Oceania Collection of the Ethnologisches Museum Berlin in the Humboldt Forum Museum. This repository does not contain __the propietary software Fingers__ of a Unity Project developed for and tested on iPads running iOS 13.1.1 and up. The library [Fingers](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076) must be added through Unity store in the project hierarchy at _/ar_interactive_tour_guide_unity/Assets/Fingers_. All other third party libraries contain their own permissive open source licences.
 
-## Table Of Contents (##table-of-contents)
+## Table Of Contents
 
 
 1. [Readme](#readme)
-2. [Brief](##brief)
-3. [Table of Contents](##table-of-contents)
+2. [Table of Contents](##table-of-contents)
+3. [Brief](##brief)
 4. [Technical Documentation of the Programming](##technical-documentation-of-the-programming)
 5. [Installation](##installation)
 6. [Use](##use)
 7. [Credits](##credits)
 8. [License](##license)
 
-(###Introduction)
+### Introduction
 This _Manual for How to Use the AR Interactive Tour Guide Tool_ has been developed to help understand how to use the digital tool and how to improve it.
 
 AR Interactive Tour Guide has been developed by museum4punkt0 along with NEEEU Spaces Gmbh for the Ethnologisches Museum Berlin/Staatliche Museen zu Berlin-Preußischer Kulturbesitz. The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany). The object which is contextualized is a ceremonial house of the Abelam culture (Dt. Kulthaus der Abelam), Oceania Collections of the Ethnologisches Museum. It will be displayed in one of the main exhibition rooms in the Humboldt Forum. 
@@ -27,7 +27,7 @@ After a first stage of research, a concept was defined in which the visitors and
 
 ![Cult house of the Abelam][211]
 
-(###Description)
+### Description 
 The tool is designed to support the guide during the tour designed for the ceremonial house of the Abelam cultureat the Ethnologisches Museum in the Humboldt Forum in Berlin. The guide and visitors have iPads that are connected using a local network over WiFi. The guide’s iPad controls what the rest of the iPads can see, and when they are interactable. Visitors' can explore freely objects in 3D in some parts of the tour.
 
 Some of the functionalities that are triggered are:
@@ -43,7 +43,7 @@ This manual provides an explanation on how to set up the digital tool and how to
 
 ![AR Interactive Tour Guide at work][212]
 
-(##Brief)
+## Brief 
 AR Interactive Tour Guide is an augmented reality project of the Staatliche Museen zu Berlin - Preußischer Kulturbesitz in the context of museum4punkt0 for the Ethnologisches Museum Berlin in the Humboldt Forum.It is a storytelling tool  to support guided tours by allowing the mediating guide to play with high flexibility audiovisual content, games, 3D object manipulation and augmented reality in the tablets of visitors at the exhibition space. The guide and visitors have iPads that are connected using a local network over WiFi. The guide’s iPad controls what the rest of the iPads can see, and when they are interactable. When allowed by the guide’s iPad at certain moments of the storytelling, visitors can freely explore augmented objects such as sculptures.
 
 The central object of the storytelling tool is the ceremonial house of the Abelam culture (German: Kulthaus der Abelam), a main, large size object of the Oceania Collections original from Papua New Guinea. By means of the storytelling tool, the mediating guide can expand his/her storytelling with contextual material such as maps, images and videos from anthropological field researches, reconstructions of previously object displays. The storytelling tool enables the mediating guide and the visitors to zoom in into displayed and digital augmented objects and to highlight their key elements. 
@@ -55,19 +55,19 @@ AR Interactive Tour Guide is part of  museum4punkt0 - Digital Strategies for the
 The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
 
 
-(##Technical-Documentation-of-the-Programming)
+## Technical Documentation of the Programming
 
-**This document offers technical details in this repository and act as an intro guide to the code. It is aimed at anyone trying to understand what the code is doing. The mediating guides using the app do not need to read or understand this document. The app will compile but will only show a blank screen unless the [server](####Data-Loading) containing the .csv files is properly adressed and the [external data folder](###How-to-work-with-the-external-data-folder) is properly imported. As mentioned in the introduction, the proprietary software library [Fingers](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076) is required to build the project.**
+**This document offers technical details in this repository and act as an intro guide to the code. It is aimed at anyone trying to understand what the code is doing. The mediating guides using the app do not need to read or understand this document. The app will compile but will only show a blank screen unless the [server](####data-loading) containing the .csv files is properly adressed and the [external data folder](###how-to-work-with-the-external-data-folder) is properly imported. As mentioned in the introduction, the proprietary software library [Fingers](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076) is required to build the project.**
 
-(###General-Structure-and-Remarks)
+### General Structure and Remarks
 
-(###UI-Framework)
+### UI Framework
 We are using a [UI Framework] (https://github.com/yankooliveira/uiframework/blob/master/MANUAL.md) to drive the flow of the application, in combination with a [typesafe, lightweight messaging library](https://github.com/yankooliveira/signals). You will be able to understand the code without understanding the details of these. You need to know:
 -   The central screen list on the App GameObject defines which screens there are. For clarity, we kept this manually written instead of generated.
 -   The static `App.uiFrame.OpenWindow(string windowName)` will hide the current window, add it to a history stack, and open the window with the given name.
 -   `App.uiFrame.CloseCurrentWindow()` will reopen the last window on the stack
 
-(####Synchronisation)
+#### Synchronisation
  We are using [Mirror](https://github.com/vis2k/Mirror) for synchronising visitor and guide devices. Mirror is the community-developed continuation of UNet. About Mirror you need to know:
 
 - The setup of Host and Clients is relatively straight forward. The guide device is setup as a Host, starting a server and a client connected to the server. Visitor devices discover hosts and connect to them as well.
@@ -84,11 +84,11 @@ There are two parts containing NetworkBehaviours:
 
 A better integration of Mirror with UIFramework would be a laborious but rewarding rework of the code.
 
-(####Data-Loading)
+#### Data Loading
 We are loading data into the Application from three UTF-8 encoded CSV files exported from Excel. These encode a three-level tree file/folder structure. See the excel sheet documentation.
 The data has to be on a web space that can be reached via the URL that is entered in guide mode.
 
-(####-Coroutines)
+#### Coroutines
 We are following a certain style guide to use unity coroutines.
 - `App.cs` contains extension methods to execute coroutines in succession (`Then` and `Do`).
 - Classes that define asynchronous behaviours simply expose IEnumerators. These may be nested (i.e. yield other IEnumerators at some point). These classes then do not need to be MonoBehaviours.
@@ -96,7 +96,7 @@ We are following a certain style guide to use unity coroutines.
 
 DataImporterFromCSV is the best example for this pattern.
 
-(###App-Startup-Flow)
+### App Startup Flow 
 - Finds current network settings. Note these will likely be invalid on first startup. These contain the URL (currently in http://xplore.museum4punkt0.de/xstream/) to the CSV files for the folder structure (also, less importantly, two ports that must be open and distinct that will be used for communication between guide and visitor devices).
 
   ![Network Settings Screen][411]
@@ -124,7 +124,7 @@ Whenever you add, remove, rename or move a file in the folder, and whenever you 
 
 
 
-(###How-to-build-the-AR-scene-with-3D-models-and-Highlight-Textures)
+### How to build the AR scene with 3D models and Highlight Textures
 In order to change the 3D elements in the tool, it is necessary to use Unity 2019.3.9f1. Once the project is open, please follow the next steps:
 
 **Step 1**: prepare the 3D Models by building a prefab containing the 3DModel and the POIs
@@ -319,7 +319,7 @@ The interaction will be similar to the guide device. It is possible to click on 
 During the game, the person with the guided device will be asked to organise the drawings of different parts of the ceremonial house/KultHaus. It is a simple click game, with feedback when the choice is right or wrong.
 
 ### Changing Content - How to Fill the Excel Data Sheet
-As explained in previous [chapters](#### Data Loading), the content displayed in the app is stored in a server, that you will have to set up and upload the content (jpg, mp4, csv) to. After the first start-up of the app you will have to submit the web address to that server into the form inside the app. The names and assets displayed in each chapter are set by the .csv files you upload here. Hence, if there are no or faulty/empty CSV files in that location the app will not start. You can find sample CSVs under “../ar_interactive_tour_guide_private/ar_interactive_tour_guide_server/CSV”.
+As explained in previous [chapters](####data-loading), the content displayed in the app is stored in a server, that you will have to set up and upload the content (jpg, mp4, csv) to. After the first start-up of the app you will have to submit the web address to that server into the form inside the app. The names and assets displayed in each chapter are set by the .csv files you upload here. Hence, if there are no or faulty/empty CSV files in that location the app will not start. You can find sample CSVs under “../ar_interactive_tour_guide_private/ar_interactive_tour_guide_server/CSV”.
  
 In the excel sheet, there are three tabs for data, 'themes', 'chapters' and 'items'.
 Strictly keep to the convention that all elements remain in their corresponding tabs (themes are in the 'themes' tab, etc.)

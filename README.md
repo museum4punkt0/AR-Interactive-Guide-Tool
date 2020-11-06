@@ -449,7 +449,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [621]: images/image621.png
 [622]: images/image622.png
 [623]: images/image623.png
-[623_1]: images/image623_1
+[623_1]: images/image623_1.png
 [624]: images/image624.png
 [625]: images/image625.png
 [626]: images/image626.png

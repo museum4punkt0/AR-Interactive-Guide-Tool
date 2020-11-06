@@ -1,13 +1,14 @@
-(#readme)
+[# Readme](#readme)
 
 _AR Interactive Tour Gruide_ is an augmented reality app for guided tours in the exhibition space. It was developed for a big scale object of the Oceania Collection of the Ethnologisches Museum Berlin in the Humboldt Forum Museum. This repository does not contain __the propietary software Fingers__ of a Unity Project developed for and tested on iPads running iOS 13.1.1 and up. The library [Fingers](https://assetstore.unity.com/packages/tools/input-management/fingers-touch-gestures-for-unity-41076) must be added through Unity store in the project hierarchy at _/ar_interactive_tour_guide_unity/Assets/Fingers_. All other third party libraries contain their own permissive open source licences.
 
-(##Table-of-Contents)
+## Table Of Contents
+(##table-of-contents)
 
 
 1. [Readme](#readme)
-2. [Brief](##Brief)
-3. [Table of Contents](##Table-of-Contents)
+2. [Brief](##brief)
+3. [Table of Contents](##table-of-contents)
 4. [Technical Documentation of the Programming](##Technical-Documentation-of-the-Programming)
 5. [Installation](##Installation)
 6. [Use](##Use)

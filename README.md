@@ -189,7 +189,7 @@ In order to compile for iPads, choose: Build and choose iOS as building platform
 
 
 
-(##Installation)
+## Installation
 ### First Time Setup
 This is a guide on how to configure the app before use. Guides will not need this setup in order to use the app.
 

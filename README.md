@@ -362,8 +362,7 @@ DE/EN Text, only for text items. Text to be displayed in the app on a text item.
 
 In the first tab, click the export button - this will export three files, 'themes.csv', 'chapters.csv', 'items.csv'. Do not change the names of these files. Make sure that you **export the .csv files with UTF-8 encoding**. This can be found in advanced settings while exporting as .csv.
  
-Upload the three files to the folder on the FTP server, which is currently:
-https://xplore.museum4punkt0.de/xstream/ 
+Upload the three files to the folder on the FTP server.
  
 In the app, when clicking on Network Settings/Netzwerk on the first screen, this folder URL must be set as the 'URL to the CSV files'. The app will then synchronize the data on every start and everytime you save these network settings.
 

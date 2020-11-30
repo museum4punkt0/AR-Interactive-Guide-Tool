@@ -50,7 +50,7 @@ The central object of the storytelling tool is the ceremonial house of the Abela
 
 AR Interactive Tour Guide opens new ways of interaction and engagement for mediators and visitor groups and reinforce the interpersonal communication at the exhibition space.  
 
-AR Interactive Tour Guide is part of  museum4punkt0 - Digital Strategies for the Museum of the Future. It was developed with the team xstream Digital (Staatliche Museen zu Berlin, focus: museums in the Humboldt Forum) in collaboration with NEEEU Spaces GmbH. Further information: [www.museum4punkt0.de](www.museum4punkt0.de) and [www.neu.io](www.neu.io).
+AR Interactive Tour Guide is part of  museum4punkt0 - Digital Strategies for the Museum of the Future. It was developed with the team xstream Digital (Staatliche Museen zu Berlin, focus: museums in the Humboldt Forum) in collaboration with NEEEU Spaces GmbH. Further information: [www.museum4punkt0.de](https://www.museum4punkt0.de) and [www.neu.io](https://www.neu.io).
 
 The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
 

@@ -97,7 +97,7 @@ We are following a certain style guide to use unity coroutines.
 DataImporterFromCSV is the best example for this pattern.
 
 ### App Startup Flow 
-- Finds current network settings. Note these will likely be invalid on first startup. These contain the URL (currently in http://xplore.museum4punkt0.de/xstream/) to the CSV files for the folder structure (also, less importantly, two ports that must be open and distinct that will be used for communication between guide and visitor devices).
+- Finds current network settings. Note these will likely be invalid on first startup. These contain the URL to the CSV files for the folder structure (also, less importantly, two ports that must be open and distinct that will be used for communication between guide and visitor devices).
 
   ![Network Settings Screen][411]
 
